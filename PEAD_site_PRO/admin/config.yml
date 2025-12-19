@@ -14,5 +14,5 @@ collections:
         name: "index"
         file: "content/index.md"
         fields:
-          - {label: "Tit", name: "title", widget: "string"}
-          - {label: "Deskripsyon", name: "description", widget: "text"}
+          - { label: "Tit", name: "title", widget: "string" }
+          - { label: "Deskripsyon", name: "description", widget: "text" }
